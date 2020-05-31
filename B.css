@@ -1,0 +1,81 @@
+
+body{
+    background:url(estrellado.png) ;
+    color: white;
+    background-repeat:no-repea;
+    background-attachment: fixed;
+    background-position: center 180px;
+}
+h1{
+    background: #ecf0f1;
+    color: black;
+    border: 15px inset #2d3436;
+    width: 700px;
+    font-size: 70px;
+    border-radius: 20px; 
+    box-shadow: 2px 4px 15px 0 black;  
+    text-shadow: 2px 2px 6px black;
+}
+p{
+    text-align: center;
+    width: 300px;
+    font-size: 22px
+}
+li{
+    list-style: none;
+    text-align: center;
+    display: inline-block;
+    border: 2px solid black;
+    margin: 7px 70px;
+    border-radius: 20px;
+    box-shadow: 2px 4px 15px 0 black;
+    font-size: 30px;
+}
+footer{
+    text-align: center;
+    clear: both;
+    padding: 20px;
+    background: #2d3436;
+    color: white;
+}
+.A{
+    font-size: 30px;
+}
+h2{
+    margin: 5px;
+    font-size: 50px;
+}
+.C{
+    border-radius: 50%;
+}
+.E{
+    display: flex;
+}
+.B{
+    padding: 86px;
+}
+
+
+a{
+    text-decoration: none;
+}
+
+.nav_responsive-ul{
+    display:none;
+}
+nav{
+    background-color: #dfe6e9;
+}
+.nav_li{
+    display: inline-block;
+    padding: 1px;
+    color:black;
+}
+.nav-li a{
+    text-decoration: none;
+}
+.nav_li i {
+    width: 40px;
+    box-sizing: border-box;
+    text-align: center;
+}
